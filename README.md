@@ -45,7 +45,7 @@ main is the program that sends the requests to the api_handaling and database_ha
 
 database_handaling is the program that communicates with the database
 
-database_handaling has a few **functions**:
+**database_handaling has a few functions**:
 
 1)listen: the initializer of the program and handles the listening communications- after every response it opens a thread to the function handle_packet
 
