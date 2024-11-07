@@ -37,7 +37,7 @@ the project contains 2 running programs:
 
 2)database_handaling.py
 
-[main]:
+**main**:
 
 main is the program that sends the requests to the api_handaling and database_handaling
 
