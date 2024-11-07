@@ -1,0 +1,16 @@
+version: '3'
+services:
+  database:
+    image: "database"
+    tty: true  
+
+  main:
+    depends_on:
+      - database  
+    image: "main"
+    tty: true 
+    
+
+
+    
+

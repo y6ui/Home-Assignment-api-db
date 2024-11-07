@@ -1,0 +1,17 @@
+{
+  "comunication": {
+    "ip_database": "172.18.0.2",
+    "port": 1111
+  },
+  "database": {
+    "database_file_name": "database.db",
+    "is_example": "False"
+  },
+  "api_settings": {
+    "api_url": "https://api.nasa.gov/neo/rest/v1/feed?start_date={}&end_date={}&api_key={}",
+    "start_date":  "2024-11-06",
+    "end_date": "2024-11-06",
+    "api_key": "Xt1jGKGVfQaQx0QRpme9udriq0gI9jyGt4hFP3Vn",
+    "is_example": "False"
+}
+}
