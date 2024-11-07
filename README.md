@@ -49,7 +49,7 @@ database_handaling is the program that communicates with the database
 
 1)listen: the initializer of the program and handles the listening communications- after every response it opens a thread to the function handle_packet
 
-2)handle_packet: the function that orginized the contains of the packet and sends to a function accordingly
+2)handle_packet: the function that orginized the contents of the packet and sends to a function accordingly
 
 3)__init__: the function that initialize the used table in the database if not existed
 
